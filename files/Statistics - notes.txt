@@ -1,0 +1,102 @@
+Random Variable :
+A random variable is a variable whose value is determined by the outcome of a random experiment.
+
+
+Discrete Random Variable:
+A random variable that assumes countable values is called a discrete random variable.
+
+Probability Distribution of a Discrete Random Variable The probability distribution of a discrete random variable lists all the possible values that the random variable can assume and their cor-
+responding probabilities.
+
+Continuous Random Variable :
+A random variable that can assume any value contained in one or more intervals is called a continuous random variable.
+
+
+Number of Combinations : 
+The number of combinations for selecting x from n distinct elements is given by the formula
+
+where n!, x!, and (n  x)! are read as “n factorial,” “x factorial,” and “n minus x factorial,”
+respectively.
+
+		n!
+nCx = --------
+	  x!(n-x)!
+
+
+Permutations Formula :
+The following formula is used to find the number of permutations or arrangements of selecting x items out of n items. Note that here, the n items should all be different.
+
+	   n!
+nPx = ---------
+	  (n - x)!
+
+--------------------------------------------------------------------------------------------
+
+Conditions of a Binomial Experiment A binomial experiment must satisfy the following four
+conditions.
+
+1. There are n identical trials.
+2. Each trial has only two possible outcomes.
+3. The probabilities of the two outcomes remain constant.
+4. The trials are independent.
+
+
+Binomial probability distribution formula
+
+             x  (n-x)
+P(x2) =	nCx	p  q
+
+where
+
+n  total number of trials
+p  probability of success
+q  (1-p)  probability of failure
+x  number of successes in n trials
+n-x number of failures in n trials
+--------------------------------------------------------------------------------------------
+Normal Probability Distribution A normal probability distribution, when plotted, gives a bellshaped
+curve such that:
+1. The total area under the curve is 1.0.
+2. The curve is symmetric about the mean.
+3. The two tails of the curve extend indefinitely.
+
+
+The standard normal distribution is a special case of the normal distribution. For the standard normal distribution, the value of the mean is equal to zero, and the value of the standard
+deviation is equal to 1.
+
+
+The Z Score Formula:
+
+z = (x – μ) / σ
+
+For example, let’s say you have a test score of 190. The test has a mean (μ) of 150 and a standard deviation (σ) of 25. Assuming a normal distribution, your z score would be:
+z = (x – μ) / σ
+z =(190 – 150) / 25 = 1.6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		   	

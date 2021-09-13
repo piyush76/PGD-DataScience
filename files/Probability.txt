@@ -1,0 +1,66 @@
+P(A) = 4/52 prob of king
+
+P(B) = 13/52 (Prob of pick Club includes picking the king of CLUB)
+
+
+Prob of picking a KING OR CLUB 
+
+P(A OR B) i.e. = P(A U B )
+
+P( A U B ) = 4/52 + 13/52 - 1/52
+
+P( A U B ) = 16/52 = 4/13
+
+
+
+
+===================================================
+U = union i.e. A OR B i.e. A U B
+
+∩ = Intersection i.e. A AND B i.e. A ∩ B
+
+
+===================================================
+
+
+Mutually Exclusive events 
+=========================================================
+If A will happedn than B can't happen. 
+
+1. Either it will be head or tail. 
+
+2. Picking up one card from deck of card, It can be either king or queen. 
+
+Mutually Exclusive
+A and B together is impossible: P(A and B) = 0
+A or B is the sum of A and B: P(A or B) = P(A) + P(B)
+
+
+
+Not Mutually Exclusive
+=========================================================
+
+1.Picking up one card from deck of card and picking up King of hearts is not mutually exclusive.
+
+2. A or B is the sum of A and B minus A and B: 
+
+P(A or B) = P(A) + P(B) − P(A and B)
+
+P(A U B ) = P(A) + P(B) − P(A ∩ B)
+
+=========================================================
+
+13/52 = Prob of picking a card of diamond
+
+12/51 = prob of picking a card of diamond second time 
+
+
+
+13/52 X 12/51  = 0.25 x 0.51 
+
+
+
+
+
+
+

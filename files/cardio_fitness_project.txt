@@ -1,0 +1,38 @@
+**Observations**
+* Maximum number of Product sold is TM195
+* There are more male customers than female customers.
+* Age distribution density is highest between 20-30
+* Mode of age distribution 25
+* Age outliers lies after 45 
+* Education level of customers is mosly between 14-16 years. 
+* Average level of eduction of customers is 15.57 years.
+* Outliers exists for education is between 20-25 years.
+* Partnered customers are more physically active than single customers. 
+* Average weekly usuage by customer is 3.45 hrs. 
+* Maximum customer use products for 3 hours atleast. 
+* Average fitness level of customers is 3.31
+* Average income of customers is 53719.5
+* Income Outliers lies for more than 80,000 
+* Average miles expected to run on the products is 103.1
+         
+Multivariate Analysis 
+
+
+**Observations**
+
+* TM798 customers age group distribution in both the gender are younger than TM195 and TM498.
+* TM798 product has more outliers in age for both males and females.
+* Average age of customers for all three products are more or less same. 
+* Education level of TM195 and TM498 customers fall betwee 14-16 years but TM798 customers education level falls between 16-18 years in the both gender catagory.
+* Female customers of product TM798 are more educated than males customers.
+* TM798 product usage is higher among the partnered customers.
+* TM195 product is more affordable for lower income group customers. 
+* Customer which use the product TM798 falls into higher income group for both males and females than TM195 and TM498 customers.
+* Average usuage of TM798 is higher than TM498 and TM195.
+* Male customers usage of TM195 is higher than female customers. 
+* Male customers usage of TM978 is higher than male customers.  
+* Fitness Level of customer which use TM978 is higher than TM498 and TM195.
+* Miles expected to run is higher on TM978 than TM498 and TM195.
+* Male customers miles run is higher on TM195 than female cusomers. 
+* Female customers miles run is higher on TM978 than male customers
+       
